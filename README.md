@@ -1,6 +1,6 @@
 # Bellabeat Product Analysis: Case Study
 ---
-### Earned the Google Data Analytics Professional Certificate, demonstrating proficiency in data cleaning, analysis, visualization, and SQL for data-driven decision-making.
+###  Google Data Analytics Capstone Project - demonstrating proficiency in data cleaning, analysis, visualization, and presentation for data-driven decision-making.
 - Analyzed FitBit Fitness Tracker data (source: Kaggle) from 30+ users over two months, uncovering key trends in smart device usage to inform Bellabeat’s product and marketing strategy.
 - Utilized Python (Pandas, Numpy, Matplotlib) and Jupyter Notebook to process, visualize, and extract insights from large-scale time-series data.
 - Identified user behavior patterns, including activity trends, sleep habits, and engagement levels, enabling data-driven recommendations for Bellabeat’s customer segmentation and product positioning.
