@@ -6,4 +6,4 @@
 - Identified user behavior patterns, including activity trends, sleep habits, and engagement levels, enabling data-driven recommendations for Bellabeat’s customer segmentation and product positioning.
 - Proposed actionable marketing strategies, such as personalized fitness recommendations and targeted messaging, based on data-backed insights into user engagement with wearable devices.
 
-Click [here](https://sachinbasyal.com/da-projects/project-bb) to view the complete case study report.
+Click [here](https://sachinbasyal.com/da-projects/project-bb) to view the complete **case-study report**.
